@@ -1,3 +1,4 @@
 Name: Minatsu Homma
 Age: 34
 Favorite Color: Pink
+Favorite City: NY
